@@ -1,6 +1,6 @@
-// Add the shop's WhatsApp number here: country code + number, digits only.
+// The shop's WhatsApp number: country code + number, digits only.
 // Format: "91" followed by the 10-digit mobile number.
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "917207634772";
 
 const WHATSAPP_MESSAGE = "Hello Sri Santhi Selection, I would like to know about your products.";
 
